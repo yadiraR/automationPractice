@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Challenge2.cs" />
     <Compile Include="ContactUs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
